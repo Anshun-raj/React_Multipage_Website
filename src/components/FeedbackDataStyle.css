@@ -1,0 +1,100 @@
+.feedbackData{
+    width: 100%;
+    height: 64.5vh;
+  }
+  
+  .feedbackData h2{
+      text-align: center;
+      color: red;
+      font-size: 2rem;
+      text-decoration: underline #000 solid;
+  }
+  
+  .feedbackData .feedbackDataInfo{
+      display: flex;
+  }
+  
+  .feedbackData .feedbackDataInfo .feedbackLeft{
+    width: 40rem;
+    padding-left: 10rem;
+  }
+
+  .feedbackData .feedbackDataInfo .feedbackLeft h3{
+    font-size: 1.6rem;
+    text-decoration: underline red 0.15rem;
+  }
+
+  .feedbackData .feedbackDataInfo .feedbackLeft p{
+    font-size: 1.25rem;
+  }
+  
+  .feedbackData .feedbackDataInfo .feedbackRight{
+    margin-left: 15rem;
+    width: 35rem;
+    border: 0.1rem solid grey;
+    border-radius: 0.3rem;
+    margin-top: 1rem;
+  }
+
+  .feedbackData .feedbackDataInfo .feedbackRight h3{
+    color: red;
+    text-align: center;
+    padding-top: 0.5rem;
+    text-decoration: underline #000 0.15rem;
+  }
+
+  .feedbackData .feedbackDataInfo .feedbackRight h4{
+    color: red;
+    text-align: center;
+    padding-top: 0.5rem;
+  }
+
+  .feedbackData .feedbackDataInfo .feedbackRight input{
+    width: 25rem;
+    height: 2rem;
+    margin: 1rem 2rem 0 5rem;
+    font-size: 0.9rem;
+  }
+
+  .feedbackData .feedbackDataInfo .feedbackRight input::placeholder{
+    color: red;
+  }
+
+  .feedbackData .feedbackDataInfo .feedbackRight textarea{
+    margin: 1rem 2rem 0 5rem;
+    width: 25rem;
+    height: 3rem;
+    font-size: 0.9rem;
+  }
+
+  .feedbackData .feedbackDataInfo .feedbackRight textarea::placeholder{
+    color: red;
+  }
+
+  .feedbackData .feedbackDataInfo .feedbackRight select{
+    margin: 1rem 2rem 1rem 5rem;
+    color: red;
+    height: 2rem;
+    width: 25rem;
+    font-size: 0.9rem;
+  }
+
+  .feedbackData .feedbackDataInfo .feedbackRight button{
+    padding: 0.5rem 1rem;
+    margin-left: 5rem;
+    border-radius: 0.2rem;
+    background-color: rgb(16, 16, 16);
+    color: #fff;
+    border: none;
+  }
+
+  .feedbackData .feedbackDataInfo .feedbackRight button:hover{
+    background-color: red;
+    color: #fff;
+    outline: none;
+  }
+
+
+  
+  
+  

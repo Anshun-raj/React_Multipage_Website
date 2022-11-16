@@ -1,0 +1,100 @@
+.footer{
+  margin-top: 4rem;
+  display: flex;
+}
+
+.footer .links{
+  width: 15rem;
+  padding-left: 10rem;
+  padding-top: 0.5rem;
+}
+
+.footer .links h3{
+  text-decoration: underline #000 0.15rem;
+  color: red;
+  text-align: center;
+}
+
+.footer .links li{
+  list-style: none;
+  font-weight: 700;
+  text-align: center;
+  cursor: pointer;
+  color: #000;
+}
+
+.footer .office{
+  width: 15rem;
+  padding-left: 10rem;
+  padding-top: 0.5rem;
+}
+
+.footer .office h3{
+  text-decoration: underline #000 0.15rem;
+  color: red;
+  text-align: center;
+}
+
+.footer .office h5{
+  color: #000;
+  padding-left: 1rem;
+}
+
+
+
+.footer .details{
+  width: 15rem;
+  padding-left: 10rem;
+  padding-top: 0.5rem;
+}
+
+.footer .details h3{
+  text-decoration: underline #000 0.15rem;
+  color: red;
+  text-align: center;
+}
+
+.footer .details .socio{
+  padding-top: 0.5rem;
+}
+
+.footer .details .socio {
+  margin-left: 1rem;
+}
+
+.footer .num{
+  width: 15rem;
+  padding-left: 10rem;
+  padding-top: 0.5rem;
+}
+
+.footer .num h3{
+  text-decoration: underline #000 0.15rem;
+  color: red;
+  text-align: center;
+}
+
+.footer .num h5{
+  padding-bottom: 0.3rem;
+  color: #000;
+}
+
+.footer .website{
+  width: 15rem;
+  padding-left: 10rem;
+  padding-top: 0.5rem;
+}
+
+.footer .website h3{
+  text-decoration: underline #000 0.15rem;
+  color: red;
+  text-align: center;
+}
+
+.footer .website h5{
+  padding-bottom: 0.3rem;
+  color: #000;
+}
+
+
+

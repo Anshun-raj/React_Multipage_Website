@@ -1,0 +1,42 @@
+.homeData{
+  width: 100%;
+  height: 64.5vh;
+}
+
+.homeData h2{
+    text-align: center;
+    color: red;
+    font-size: 2rem;
+    text-decoration: underline #000 solid;
+}
+
+.homeData .homeDataInfo{
+    display: flex;
+}
+
+.homeData .homeDataInfo .homeLeft{
+    width: 50rem;
+    padding: 10rem 0 0 10rem;
+}
+
+.homeData .homeDataInfo .homeLeft h3{
+    font-size: 1.6rem;
+    color: rgb(41, 44, 44);
+}
+
+.homeData .homeDataInfo .homeLeft span{
+    color: red;
+}
+
+.homeData .homeDataInfo .homeRight{
+    width: 50rem;
+    padding: 0 0 0 15rem;
+}
+
+.homeData .homeDataInfo .homeRight .homeImg{
+    width: 30rem;
+    height: 30rem;
+    border-radius: 20rem;
+}
+
+

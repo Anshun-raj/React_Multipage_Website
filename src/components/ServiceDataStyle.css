@@ -1,0 +1,84 @@
+.serviceData{
+    width: 100%;
+    height: 64.5vh;
+  }
+  
+  .serviceData h2{
+      text-align: center;
+      color: red;
+      font-size: 2rem;
+      text-decoration: underline #000 solid;
+  }
+  
+  .serviceData .serviceDataInfo{
+      display: flex;
+      padding: 5rem 5rem 2rem 10rem;
+  }
+
+  .serviceData .serviceDataInfo p{
+    color: rgb(57, 56, 56);
+  }
+
+  .serviceData .serviceDataInfo h5{
+    font-size: 1rem;
+    padding-top: 0.5rem;
+  }
+
+  .serviceData .serviceDataInfo span{
+    color: red;
+  }
+
+  .serviceData .serviceDataInfo button{
+    margin-top: 1rem;
+    padding: 0.7rem 1rem;
+    background-color: rgb(87, 86, 86);
+    color: #fff;
+    font-weight: 600;
+    border: 0;
+    font-size: 0.8rem;
+    border-radius: 0.15rem;
+    transition: 0.5s;
+  }
+
+  .serviceData .serviceDataInfo button:hover{
+    background-color: #000;
+    color: red;
+    transform: scaleX(1.07);
+  }
+  
+  .serviceData .serviceDataInfo .homeDelivery{
+    width: 30rem;
+    padding-right: 3rem;
+  }
+
+  .serviceData .serviceDataInfo .fromCenter h3{
+    text-decoration: underline red 0.15rem;
+    font-size: 1.5rem;
+  }
+
+  
+  .serviceData .serviceDataInfo .homeDelivery h3{
+    text-decoration: underline red 0.15rem;
+    font-size: 1.5rem;
+  }
+
+  
+  .serviceData .serviceDataInfo .journey h3{
+    text-decoration: underline red 0.15rem;
+    font-size: 1.5rem;
+  }
+
+  .serviceData .serviceDataInfo .fromCenter{
+    width: 30rem;
+    padding-right: 3rem;
+
+  }
+  
+  .serviceData .serviceDataInfo .journey{
+    width: 30rem;
+    padding-right: 3rem;
+
+  }
+  
+  
+ 
